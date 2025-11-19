@@ -4,7 +4,7 @@
 
 <div align="center">
 <img alt="Reki's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r0creki&show_icons=true&theme=dark"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0creki&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0creki&theme=dark&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
